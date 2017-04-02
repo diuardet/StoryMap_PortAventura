@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+html, body, header {
+  font-family: 'Lato', sans-serif;
+}
+
+#header .title {
+  height:40px;
+  font-size: 30px;
+}
+
+#header .subtitle {
+  font-size: 18px;
+}
+
+#header .shareIcon {
+  font-size: 175%;
+  margin-left: 15px;
+}
+
+.logo {
+  float: left;
+  margin-left: 1%
+}
+
+.headerLogoImg {
+  height: 85px
+}
+
+.textArea {
+  margin-left: 8%
+}
+#header .rightArea {
+  float: right;
+  margin-right: 1%
+}
+
+.carouselScroller span.number-black:before {
+	background-color:#000000;
+}
+
+.carouselScroller span.number-magenta:before {
+	background-color:#AC43C5;
+}
+
+.carouselScroller span.number-orange:before {
+	background-color:#FD9A27;
+}
+
+.carouselScroller span.number-salmon:before {
+	background-color:#FB4201;
+}
+
+.carouselScroller span.number-tangerine:before {
+	background-color:#FA8405;
+}
+
+.carouselScroller span.number-yellow:before {
+	background-color:#E7E719;
+}
+
+.carouselScroller span.number-china:before {
+	background-color:#DA2B3C;
+}
+
+.carouselScroller span.number-farwest:before {
+	background-color:#69483F;
+}
+
+.carouselScroller span.number-mediterrania:before {
+	background-color:#1DBECF;
+}
+
+.carouselScroller span.number-mexico:before {
+	background-color:#FCB42C;
+}
+
+.carouselScroller span.number-polynesia:before {
+	background-color:#118796;
+}
+
+.carouselScroller span.number-sesamoaventura:before {
+	background-color:#F16670;
+}
